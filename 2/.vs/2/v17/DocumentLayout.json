@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Myo Min Naing\\source\\repos\\2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C595F9-BB3E-45C6-B199-1158F9231FC4}|2\\2.vcxproj|C:\\Users\\Myo Min Naing\\source\\repos\\2\\2\\222.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C7C595F9-BB3E-45C6-B199-1158F9231FC4}|2\\2.vcxproj|solutionrelative:2\\222.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C595F9-BB3E-45C6-B199-1158F9231FC4}|2\\2.vcxproj|C:\\Users\\Myo Min Naing\\source\\repos\\SO1\\app1\\1st.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "222.c",
+              "DocumentMoniker": "C:\\Users\\Myo Min Naing\\source\\repos\\2\\2\\222.c",
+              "RelativeDocumentMoniker": "2\\222.c",
+              "ToolTip": "C:\\Users\\Myo Min Naing\\source\\repos\\2\\2\\222.c",
+              "RelativeToolTip": "2\\222.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-22T07:41:46.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1st.c",
+              "DocumentMoniker": "C:\\Users\\Myo Min Naing\\source\\repos\\SO1\\app1\\1st.c",
+              "RelativeDocumentMoniker": "..\\SO1\\app1\\1st.c",
+              "ToolTip": "C:\\Users\\Myo Min Naing\\source\\repos\\SO1\\app1\\1st.c",
+              "RelativeToolTip": "..\\SO1\\app1\\1st.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-22T07:38:22.05Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

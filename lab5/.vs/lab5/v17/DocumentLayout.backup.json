@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Myo Min Naing\\source\\repos\\lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E17DD763-0ECC-479E-B27E-BAA21BF13700}|lab5\\lab5.vcxproj|C:\\Users\\Myo Min Naing\\source\\repos\\lab5\\lab5\\waypoints.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E17DD763-0ECC-479E-B27E-BAA21BF13700}|lab5\\lab5.vcxproj|solutionrelative:lab5\\waypoints.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "waypoints.c",
+              "DocumentMoniker": "C:\\Users\\Myo Min Naing\\source\\repos\\lab5\\lab5\\waypoints.c",
+              "RelativeDocumentMoniker": "lab5\\waypoints.c",
+              "ToolTip": "C:\\Users\\Myo Min Naing\\source\\repos\\lab5\\lab5\\waypoints.c",
+              "RelativeToolTip": "lab5\\waypoints.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-14T09:26:46.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

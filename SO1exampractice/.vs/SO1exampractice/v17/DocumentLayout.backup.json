@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Myo Min Naing\\source\\repos\\SO1exampractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{875AE389-177B-4B7F-9731-72C02DB5081C}|SO1exampractice\\SO1exampractice.vcxproj|C:\\Users\\Myo Min Naing\\source\\repos\\SO1exampractice\\SO1exampractice\\2023.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{875AE389-177B-4B7F-9731-72C02DB5081C}|SO1exampractice\\SO1exampractice.vcxproj|solutionrelative:SO1exampractice\\2023.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660D9248-CE61-4ABA-A5A7-9BB91646883E}|2022\\2022.vcxproj|C:\\Users\\Myo Min Naing\\source\\repos\\SO1exampractice\\2022\\2022.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{660D9248-CE61-4ABA-A5A7-9BB91646883E}|2022\\2022.vcxproj|solutionrelative:2022\\2022.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2022.c",
+              "DocumentMoniker": "C:\\Users\\Myo Min Naing\\source\\repos\\SO1exampractice\\2022\\2022.c",
+              "RelativeDocumentMoniker": "2022\\2022.c",
+              "ToolTip": "C:\\Users\\Myo Min Naing\\source\\repos\\SO1exampractice\\2022\\2022.c",
+              "RelativeToolTip": "2022\\2022.c",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-30T22:32:22.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2023.c",
+              "DocumentMoniker": "C:\\Users\\Myo Min Naing\\source\\repos\\SO1exampractice\\SO1exampractice\\2023.c",
+              "RelativeDocumentMoniker": "SO1exampractice\\2023.c",
+              "ToolTip": "C:\\Users\\Myo Min Naing\\source\\repos\\SO1exampractice\\SO1exampractice\\2023.c",
+              "RelativeToolTip": "SO1exampractice\\2023.c",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-30T19:04:38.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

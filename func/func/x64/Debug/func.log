@@ -1,0 +1,3 @@
+﻿  getchar.c
+C:\Users\Myo Min Naing\source\repos\func\func\getchar.c(42,1): warning C4716: 'binomial': must return a value
+  func.vcxproj -> C:\Users\Myo Min Naing\source\repos\func\x64\Debug\func.exe

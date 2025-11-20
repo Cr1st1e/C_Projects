@@ -1,0 +1,3 @@
+﻿  2nd.c
+C:\Users\Myo Min Naing\source\repos\SO1\app1\2nd.c(12,2): warning C4013: 'first' undefined; assuming extern returning int
+  app1.vcxproj -> C:\Users\Myo Min Naing\source\repos\SO1\x64\Debug\app1.exe
